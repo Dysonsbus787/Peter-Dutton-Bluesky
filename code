@@ -1,0 +1,5 @@
+BLUESKY_USERNAME=peterduttonmpposts.bsky.social
+BLUESKY_PASSWORD=pwd123
+ARCHIVE_FOLDER=C:/Temp/twitter-archive
+TWITTER_HANDLES=@PeterDutton_MP
+IGNORE_VIDEO_ERRORS=1
